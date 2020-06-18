@@ -8,7 +8,8 @@ title: Introduction to Bonsai
 
 ![Bonsai](./assets/images/bonsai-lettering.svg)
 
-### Rapid-prototyping Neuroscience
+### A Visual Language for  
+### Scientific Experimentation
 <table style="width: 100%;">
   <tr>
     <td width="33%" align="center" style="vertical-align:middle">Gonçalo Lopes</td>
@@ -19,9 +20,9 @@ title: Introduction to Bonsai
 
 ---
 
-### Neuroscience needs makers & hackers
+### Biology and rapid prototyping
 
-On the nature of system neuroscience tools:
+On the nature of experimental tools:
 
 * Accessible
 <!-- .element: class="fragment" data-fragment-index="1" -->
