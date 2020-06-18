@@ -283,18 +283,6 @@ On the nature of experimental tools:
 </script>
 </section>
 
-<!-- Raw HTML for embedded iframe backgrounds -->
-<section>
-  <section data-background-iframe="https://www.youtube.com/embed/0aachcS0CUY?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;loop=1&amp;playlist=wwU6TzUJxNU&amp;showinfo=0&amp;rel=0&amp;html5=1">
-    <table style="height: 20%; margin-top: 65%; margin-left: -78px; color: white;">
-      <tr><th>Bonsai + DeepLabCut Live</th></tr>
-    </table>
-  </section>
-  <section>
-    <img src="./assets/images/bonsai-dlc.svg" alt="DLC Pipeline">
-  </section>
-</section>
-
 <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
 <script type="text/template">
 
@@ -329,6 +317,18 @@ Clock deviation: ± 44 µs
     <img src="https://images.squarespace-cdn.com/content/v1/53039db8e4b0649958e13c7b/1563647325514-888R4JTXR232PAGYQT0U/ke17ZwdGBToddI8pDm48kB3IFERSih8gSc9gwbTEaQN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0qwNYAhhCBGzdWC7lMoYU-ya3ojHJMwcNa85ssvbLJl-kO2cj3f-oxvdCV5LnVd2Cw/image-asset.png?format=750w" alt="ONI and Bonsai">
     <small>Simultaneous 64-channel ephys, 3D-tracking, accelerometer and gyroscope measurements, and optogenetic and electrical stimulation, all acquired and controlled through Bonsai.</small>
     <a href="https://open-ephys.org/next-gen-acquisition-system">open-ephys.org/next-gen-acquisition-system</a>
+  </section>
+</section>
+
+<!-- Raw HTML for embedded iframe backgrounds -->
+<section>
+  <section data-background-iframe="https://www.youtube.com/embed/0aachcS0CUY?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;loop=1&amp;playlist=wwU6TzUJxNU&amp;showinfo=0&amp;rel=0&amp;html5=1">
+    <table style="height: 20%; margin-top: 65%; margin-left: -78px; color: white;">
+      <tr><th>Bonsai + DeepLabCut Live</th></tr>
+    </table>
+  </section>
+  <section>
+    <img src="./assets/images/bonsai-dlc.svg" alt="DLC Pipeline">
   </section>
 </section>
 
