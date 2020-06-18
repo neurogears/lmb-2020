@@ -57,7 +57,7 @@ On the nature of system neuroscience tools:
 <!-- Raw HTML for embedded iframe backgrounds -->
 <section data-background="#000000">
     <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
-    <script type="text/template">## Example:<br>from Shuttling to Videogame</script>
+    <script type="text/template">## Applications</script>
     </section>
     <section data-background-iframe="https://www.youtube.com/embed/4q9mFkZ3J_g?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;loop=1&amp;playlist=4q9mFkZ3J_g&amp;showinfo=0&amp;rel=0&amp;html5=1">
       <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
@@ -72,6 +72,11 @@ On the nature of system neuroscience tools:
     <section data-background-iframe="https://www.youtube.com/embed/qXqAXgXJPmo?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;showinfo=0&amp;rel=0&amp;html5=1">
       <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
         <tr><th>Lorenza Calcaterra, Kampff Lab</th></tr>
+      </table>
+    </section>
+    <section data-background-iframe="https://www.youtube.com/embed/nH41R0_RUgc?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;showinfo=0&amp;rel=0&amp;html5=1">
+      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
+        <tr><th>André Cordeiro, Nelson Saibo Lab, ITQB</th></tr>
       </table>
     </section>
 </section>
