@@ -308,6 +308,41 @@ Clock deviation: ± 44 µs
 
 ---
 
+<!-- .element: data-transition="default none" -->
+###### Transform
+
+![Transform](./assets/images/transform.svg)
+
+--
+
+<!-- .element: data-transition="default none" -->
+###### Select
+
+![Select](./assets/images/select.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### SelectMany
+
+![SelectMany](./assets/images/selectmany.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### SelectMany: Play audio on cue
+
+![SelectMany](./assets/images/selectmany-playsound-1.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### SelectMany: Play audio on cue
+
+![SelectMany](./assets/images/selectmany-playsound-2.svg)
+
+---
+
 ### Questions / Brainstorm
 
 ![Bonsai](./assets/images/bonsai-lettering.svg)
