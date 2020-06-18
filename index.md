@@ -7,16 +7,9 @@ title: Introduction to Bonsai
 <script type="text/template">
 
 ![Bonsai](./assets/images/bonsai-lettering.svg)
-
 ### A Visual Language for  
 ### Scientific Experimentation
-<table style="width: 100%;">
-  <tr>
-    <td width="33%" align="center" style="vertical-align:middle">Gonçalo Lopes</td>
-    <td width="33%" align="center" style="vertical-align:top"><a href="https://bonsai-rx.org"><strong>bonsai-rx.org</strong></a></td>
-    <td width="33%" align="center" style="vertical-align:middle"><a href="https://neurogears.org"><img alt="NeuroGEARS" src="./assets/images/neurogears.svg"/></a></td>
-  </tr>
-</table>
+[bonsai-rx.org](http://bonsai-rx.org)
 
 ---
 
