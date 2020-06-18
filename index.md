@@ -74,7 +74,7 @@ On the nature of system neuroscience tools:
         <tr><th>Lorenza Calcaterra, Kampff Lab</th></tr>
       </table>
     </section>
-    <section data-background-iframe="https://www.youtube.com/embed/nH41R0_RUgc?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;showinfo=0&amp;rel=0&amp;html5=1">
+    <section data-background-iframe="https://www.youtube.com/embed/nH41R0_RUgc?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;loop=1&amp;playlist=nH41R0_RUgc&amp;showinfo=0&amp;rel=0&amp;html5=1">
       <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
         <tr><th>André Cordeiro, Nelson Saibo Lab, ITQB</th></tr>
       </table>
