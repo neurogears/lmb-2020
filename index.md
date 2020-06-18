@@ -349,6 +349,20 @@ Clock deviation: ± 44 µs
 
 ---
 
+<!-- .element: data-transition="default none" -->
+###### TriggeredWindow
+
+![TriggeredWindow](./assets/images/triggeredwindow.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### TriggeredWindow: Record triggered video
+
+![SelectMany](./assets/images/triggeredwindow-recordclip.svg)
+
+---
+
 ### Questions / Brainstorm
 
 ![Bonsai](./assets/images/bonsai-lettering.svg)
