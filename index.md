@@ -361,5 +361,8 @@ Clock deviation: ± 44 µs
 
 ![Bonsai](./assets/images/bonsai-lettering.svg)
 
+Join us in the forums:
+https://groups.google.com/d/forum/bonsai-users
+
 </script>
 </section>
